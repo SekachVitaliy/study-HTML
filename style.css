@@ -1,0 +1,205 @@
+body{
+	margin:0 ;
+	padding: 0;
+	
+}
+a{
+	color:white;
+	text-decoration: none;
+}
+
+.shapkatext{
+	right: 0px;
+	left: 0px;
+	position:fixed ;
+	background: #007765;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	color: #FFFFFF;
+	line-height: normal;
+	text-align: center;
+
+}
+
+.jum{
+	padding: 160px 0;
+	background: url(image.png);
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 72px;
+	line-height: normal;
+	text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+.backproblem{
+	background: #EEEEEE;
+}
+
+.problem{
+	
+	padding-top: 48px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 64px;
+	line-height: normal;
+	text-align: center;
+
+	color: #007765;
+}
+
+
+.problemtext{
+	margin-left:451px;
+	margin-right:450px ;
+	padding-bottom:92px ;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: normal;
+	text-align: center;
+
+	color: #000000;
+
+}
+
+.hero{
+	background: url(image-1.png);
+}
+
+.herotext{
+	padding-top: 128px;
+    padding-bottom: 127px;
+    padding-left: 500px;
+    padding-right: 500px;
+
+	font-family: Roboto;
+	font-style: italic;
+	font-weight: 500;
+	font-size: 48px;
+	line-height: normal;
+	text-align: center;
+
+	color: #FFFFFF;
+}
+
+.backppc{
+	background: #FFFFFF;
+}
+
+.intro{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 64px;
+	line-height: normal;
+	text-align: center;
+
+	color: #007765;
+
+	padding-bottom: 16px;
+	padding-top: 	48px;
+	padding-right: 450px;
+	padding-left: 451px;
+}
+
+.pied{
+	padding-bottom: 40px;
+	margin-left: 451px;
+	margin-right:  420px;
+
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: normal;
+	text-align: center;
+
+	color: #000000;
+
+}
+.pied2{
+	padding-top: 0px;
+    padding-bottom: 92px;
+    padding-left: 451px;
+    padding-right: 450px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	line-height: normal;
+	text-align: center;
+
+	color: #000000;
+}
+
+h1 {
+	padding-top: 58px;
+	color: #007765;
+	font-weight: 500;
+	text-align: center;
+	font-size: 64px;
+}
+
+.container {
+  margin: 0 auto;
+  background: #EEEEEE;
+}
+
+.members {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.member {
+  text-align: center;
+  flex-basis: 33%;
+  padding: 24px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+}
+
+.member-name {
+  margin: 0;
+  margin-top: 12px;
+  font-weight: 600;
+  font-size: 24px;
+  color: #007765;
+}
+
+.member-role {
+  font-style: italic;
+  font-size: 18px;
+}
+
+
+
+.end{
+	padding-top: 50px;
+    padding-bottom: 62px;
+    padding-left: 630px;
+    padding-right: 630px;
+
+
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: normal;
+	text-align: center;
+
+	color: #FFFFFF;
+	background: #333333;
+}
